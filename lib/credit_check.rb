@@ -76,14 +76,3 @@ class CardNumber
     end
   end
 end
-
-# card_number = CardNumber.new
-# puts card_number.split_odd
-# puts card_number.split_even
-# puts card_number.double_even_values
-# puts card_number.collects_digits_under_ten
-# puts card_number.collects_digits_over_ten
-# puts card_number.add_over_ten
-# puts card_number.add_all
-# puts card_number.valid?
-
