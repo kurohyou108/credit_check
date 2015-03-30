@@ -1,3 +1,15 @@
+#By:
+Robert Cornell
+
+#Date:
+03/23/15
+
+#Branch Directory
+Branch 1 - project_start
+
+
+
+##Project Description
 Credit Check
 Let's write a program that can detect mistakes in a credit card number.
 
